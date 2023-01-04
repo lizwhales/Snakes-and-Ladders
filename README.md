@@ -1,2 +1,2 @@
 # Snakes-and-Ladders
-A Snake and Ladder Game.
+A Snakes and Ladders Game.
